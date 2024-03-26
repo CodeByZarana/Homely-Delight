@@ -1,0 +1,7 @@
+{
+    "extends": "@react-native-community",
+    /*prettier is integrated into eslint.So eslint is going to tell us and complain about things that Prettier wants to fix.*/
+    "rules": {
+        "quotes": [2, "double", { "avoidEscape": true }]
+      }
+}

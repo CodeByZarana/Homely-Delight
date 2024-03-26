@@ -1,0 +1,56 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.21366200000001,
+            "lng": 4.405177
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2150259802915,
+              "lng": 4.406393180291502
+            },
+            "southwest": {
+              "lat": 51.2123280197085,
+              "lng": 4.403695219708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "PickUp",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 2048
+          }
+        ],
+        "place_id": "some place id 2",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "reference": "",
+        "scope": "",
+        "types": [
+          "spa",
+          "lodging",
+          "restaurant",
+          "food",
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Lange Gasthuisstraat 45, Antwerpen"
+      }
+      
+    ],
+    "status": "OK"
+  }
+  

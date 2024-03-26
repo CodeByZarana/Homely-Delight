@@ -1,0 +1,59 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 43.6465623,
+            "lng": -79.374578
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 43.64794098029149,
+              "lng": -79.37325551970848
+            },
+            "southwest": {
+              "lat": 43.6452430197085,
+              "lng": -79.37595348029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Novotel Toronto Centre",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4910,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6576
+          }
+        ],
+        
+        "place_id": "some place id 80",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1064,
+        "vicinity": "180 Queen Street West, Toronto"
+      }
+    ],
+    "status": "OK"
+  }

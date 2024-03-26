@@ -1,0 +1,61 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 37.77361,
+            "lng": -122.421622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.7750214302915,
+              "lng": -122.4202089697085
+            },
+            "southwest": {
+              "lat": 37.7723234697085,
+              "lng": -122.4229069302915
+            }
+          }
+        },
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6786
+          }
+        ],
+        
+       
+        
+        "place_id": "some place id 60",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 861,
+        "vicinity": "511 Hayes Street, San Francisco"
+      }
+    ],
+    "status": "OK"
+  }
